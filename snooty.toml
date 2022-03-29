@@ -12,7 +12,7 @@ toc_landing_pages = [
   "/connect-atlas-cli",
   "/install-atlas-cli",
   "/migrate-to-atlas-cli",
-  ]
+  "/command/atlas"]
 
 [constants]
 aagent = "Automation Agent"
